@@ -1,1 +1,1 @@
-# free-n8n-workflow-templates-collection
+# n8n-workflow-templates
